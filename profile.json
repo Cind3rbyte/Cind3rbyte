@@ -181,7 +181,11 @@
       },
       {
         "icon": "brand:spotify",
-        "url": "https://open.spotify.com/user/e9ab2ta30i7met0pw5yscbsf6?si=4f54f98f21154896"
+        "url": "https://open.spotify.com/user/e9ab2ta30i7met0pw5yscbsf6"
+      },
+      {
+        "icon": "language",
+        "url": "https://cind3rbyte.github.io/"
       }
     ],
     "variant": "chip",
