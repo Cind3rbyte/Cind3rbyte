@@ -1,0 +1,153 @@
+{
+ "key": "b9a24a1d",
+ "stars": 0,
+ "contributions": 36,
+ "repos": 4,
+ "followers": 0,
+ "languages": [
+  [
+   "C#",
+   124245
+  ],
+  [
+   "Swift",
+   94485
+  ],
+  [
+   "HTML",
+   20723
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Cind3rbyte",
+   "url": "https://github.com/Cind3rbyte/Cind3rbyte",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "cind3rbyte.github.io",
+   "url": "https://github.com/Cind3rbyte/cind3rbyte.github.io",
+   "text": "cind3rbyte portfolio",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "riff",
+   "url": "https://github.com/Cind3rbyte/riff",
+   "text": "Your desktop music player.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "clawd-desktop-pet",
+   "url": "https://github.com/Cind3rbyte/clawd-desktop-pet",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  }
+ ]
+}
