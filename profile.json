@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "login": "Cind3rbyte",
+  "seed": "#6ACF8D",
+  "seedFromAvatar": true,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Yo, I'm",
+    "name": "Cind3rbyte",
+    "subtitle": "Powered by logic and curiosity.",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "RLP, Germany"
+      },
+      {
+        "icon": "code",
+        "label": "Java · Python · TypeScript · HTML/CSS"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "music_note",
+        "label": "Musicaholic: Linkin Park, Coldplay, RHCP"
+      },
+      {
+        "icon": "code",
+        "label": "Java, Python and TypeScript"
+      },
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "brand:anthropic",
+        "label": "Pair programming with Claude"
+      },
+      {
+        "icon": "school",
+        "label": "Coffee-powered, bug-driven"
+      },
+      {
+        "icon": "build",
+        "label": "Learning by building"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:n8n",
+            "label": "N8N"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "Claude Code"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "Windows 11 Pro"
+          },
+          {
+            "icon": "brand:paperlessngx",
+            "label": "Paper Api"
+          },
+          {
+            "icon": "brand:gradle",
+            "label": "Gradle"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "clawd-desktop-pet",
+      "riff"
+    ],
+    "overrides": {
+      "clawd-desktop-pet": {
+        "icon": "brand:claudecode"
+      },
+      "riff": {
+        "shape": "cookie12"
+      }
+    },
+    "empty": "Youre Desktop Pet",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/cind3rbyte"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/894661046537711658"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/cind3rbyte"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/e9ab2ta30i7met0pw5yscbsf6?si=4f54f98f21154896"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://cind3rbyte.github.io/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
